@@ -1,0 +1,10 @@
+﻿  interface.cpp
+  lab2.cpp
+  sort.cpp
+  work_with_array.cpp
+c:\users\sony\desktop\программирование\лабораторная 2 [принято]\lab2\lab2\work_with_array.cpp(44): warning C4244: =: преобразование "int" в "char", возможна потеря данных
+c:\users\sony\desktop\программирование\лабораторная 2 [принято]\lab2\lab2\work_with_array.cpp(161): warning C4456: объявление "i" скрывает предыдущее локальное объявление
+  c:\users\sony\desktop\программирование\лабораторная 2 [принято]\lab2\lab2\work_with_array.cpp(160): note:  см. объявление "i"
+  work_with_menu.cpp
+  Создание кода...
+  lab2.vcxproj -> C:\Users\Sony\Desktop\Программирование\Лабораторная 2 [Принято]\lab2\x64\Debug\lab2.exe
